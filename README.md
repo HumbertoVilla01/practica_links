@@ -1,1 +1,1 @@
-# practica_links
+Esta es una practica donde se trabajo con links locales y a otras paginas, tambien agregamos imagenes
